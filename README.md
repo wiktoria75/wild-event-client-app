@@ -1,15 +1,14 @@
-# WILD EVENT MANAGER - CLIENTS APP FRONTEND
+# WILD EVENT MANAGER - CLIENT APP
 
  Our project is already deployed, you can see it here: 
  
-
- 1. [Backoffice](http://wildeventmanager.com/)
+ 1. [Backoffice](http://wildeventmanager.com/) - login: admin@wildeventmanager.com | password: WildEvent2023
  2. [Clients app](http://wildevent.com.pl/) - designed for mobile devices
 
 Here you can find other repositories for this project: 
 
- 1. [Backend](https://github.com/michalz18/wild-event-manager-backend)
- 2. [Backoffice](https://github.com/michalz18/wild-event-manager-backend)
+ 1. [API](https://github.com/wiktoria75/wild-event-api)
+ 2. [Backoffice](https://github.com/wiktoria75/wild-event-backoffice)
 
 ## 🌟 Project aim
 
